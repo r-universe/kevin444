@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "greekLetters"]
 	path = greekLetters
 	url = https://github.com/cran/greekLetters
-	shallow = true
-	registered = true
 [submodule "pseudo"]
 	path = pseudo
 	url = https://github.com/cran/pseudo
-	shallow = true
-	registered = true
